@@ -65,7 +65,7 @@ async def vplay(client, m: Message):
                     text="乂ʙᴏᴛ ɢʀᴏᴜᴘ乂", url=f"https://t.me/AAPLI_YAARI"
                 ),
                 InlineKeyboardButton(
-                    text="乂ʙᴏᴛ ᴄʜᴀᴀɴɴᴇʟ乂", url=f"https://t.me/s"
+                    text="乂ʙᴏᴛ ᴄʜᴀᴀɴɴᴇʟ乂", url=f"https://t.me/AAPLI_YAARI"
                 ),
             ]
         ]
@@ -222,10 +222,10 @@ async def vstream(client, m: Message):
         [
             [
                 InlineKeyboardButton(
-                    text="乂ʙᴏᴛ ɢʀᴏᴜᴘ乂", url=f"https://t.me/Rockerz_support"
+                    text="乂ʙᴏᴛ ɢʀᴏᴜᴘ乂", url=f"https://t.me/AAPLI_YAARI"
                 ),
                 InlineKeyboardButton(
-                    text="乂ʙᴏᴛ ᴄʜᴀɴɴᴇʟ乂", url=f"https://t.me/RockerZ_updates"
+                    text="乂ʙᴏᴛ ᴄʜᴀɴɴᴇʟ乂", url=f"https://t.me/AAPLI_YAARI"
                 ),
             ]
         ]
