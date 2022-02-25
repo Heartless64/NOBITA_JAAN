@@ -1,5 +1,5 @@
 <p align="center"><a href="https://t.me/XMARTY_VC_PLAYER_BOT">
-    <img src="https://telegra.ph/file/8a6af27a8d113f3547c43.jpg"></a></p>
+    <img src="https://telegra.ph/file/a0adbb89423c5aa6770d4.jpg"></a></p>
 <p align="center">
     <br><b>Video Stream is a telegram bot project that's allow you to play video on telegram group video chat</b><br>
 </p>
@@ -50,7 +50,7 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/S780821/video-stream)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kuldiprathod/video-stream-1)
 ## Deploy On Railway
 Fill all variables 
 
