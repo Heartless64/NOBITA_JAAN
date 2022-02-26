@@ -16,7 +16,7 @@
 
 ## 🧪 Get `SESSION_NAME` from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@S780821/PyrogramSession) ``Pyrogram``
+[![GenerateString](https://replit.com/@kuldiprathod/Session-Generator#main.py)](https://replit.com/@S780821/PyrogramSession) ``Pyrogram``
 
 ## ✨ Features
 - Music & Video stream support
